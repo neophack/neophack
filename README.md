@@ -1,5 +1,5 @@
 ![](t0146993077b02dfdf2.webp)
-
+[![neophack's GitHub stats](https://github-readme-stats.vercel.app/api?username=neophack)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **neophack/neophack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
